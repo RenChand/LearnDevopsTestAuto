@@ -13,3 +13,41 @@
 
 To generate Token 
 Profile > Settings > Developer settings > Personal Acess token > Generate token classic > Name & select access >generate 
+Assignment 2 :
+
+18  cd Assignment2/
+   19  git init 
+   20  touch feature1 feature2 
+   21  git branch 
+   22  git add . && git commit -m " feature files " 
+   23  git branch 
+   24  l s
+   25  ls
+   26  git branch develop 
+   27  git branch feature1 
+   28  git branch feature2
+   29  git branch 
+   30  git checkout develop 
+   31  ls 
+   32  touch develop.txt
+
+   33  git status 
+   34  ls 
+   35  git stash -u 
+   36  ls 
+   37  git checkout feature1
+   38  ls 
+   39  touch new.txt
+   40  ls 
+   41  git add new.txt && git commit -m " new file " 
+   42  git checkout develop 
+   43  ls 
+   44  git stash pop 
+   45  ls 
+   46  git add . 
+   47  git commit -m " develop file " 
+
+   11 git remote add origin https://github.com/RenChand/LearnDevopsTestAuto.git
+   12  git remote -v 
+   13  git push origin master 
+
