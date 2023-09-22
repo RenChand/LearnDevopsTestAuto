@@ -1,0 +1,15 @@
+ 2  mkdir asignment1
+    3  cd asignment1/
+    4  touch code.txt output.txt log.txt 
+    5  ls 
+    6  git init 
+    7  git add code.txt output.txt 
+    8  git status 
+    9  git commit -m " Assignment 1 " 
+   10  git log 
+   11  git remote add origin https://github.com/Amanintellipaat/21-A1.git
+   12  git remote -v 
+   13  git push origin master 
+
+To generate Token 
+Profile > Settings > Developer settings > Personal Acess token > Generate token classic > Name & select access >generate 
