@@ -1,0 +1,54 @@
+Assignment1 :
+Tasks To Be Performed:
+1. Based on what you have learnt in the class, do the following steps:
+a. Create a new folder
+b. Put the following files in the folder
+● Code.txt
+● Log.txt
+● Output.txt
+c. Stage the Code.txt and Output.txt files
+d. Commit them
+e. And finally push them to GitHub
+2. Please share the commands for the above
+
+Assignment2:
+Tasks To Be Performed:
+1. Create a Git working directory with feature1.txt and feature2.txt in the
+master branch
+2. Create 3 branches develop, feature1 and feature2
+3. In develop branch create develop.txt, do not stage or commit it
+4. Stash this file and check out to feature1 branch
+5. Create new.txt file in feature1 branch, stage and commit this file
+6. Checkout to develop, unstash this file and commit
+7. Please submit all the Git commands used to do the above
+
+Assignment3:
+Tasks To Be Performed:
+1. Create a Git working directory, with the following branches:
+● Develop
+● F1
+● f2
+2. In the master branch, commit main.txt file
+3. Put develop.txt in develop branch, f1.txt and f2.txt in f1 and f2 respectively
+4. Push all these branches to GitHub
+5. On local delete f2 branch
+6. Delete the same branch on GitHub as wel
+Assignment 4:
+Tasks To Be Performed:
+1. Put master.txt on master branch, stage and commit
+2. Create 3 branches: public 1, public 2 and private
+3. Put public1.txt on public 1 branch, stage and commit
+4. Merge public 1 on master branch
+5. Merge public 2 on master branch
+6. Edit master.txt on private branch, stage and commit
+7. Now update branch public 1 and public 2 with new master code in private
+8. Also update new master code on master
+9. Finally update all the code on the private branch
+
+Assignment 5:
+Tasks To Be Performed:
+1. Create a Git Flow workflow architecture on Git
+2. Create all the required branches
+3. Starting from the feature branch, push the branch to the master, following
+the architecture
+4. Push a urgent.txt on master using hotfix
